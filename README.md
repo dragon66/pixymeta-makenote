@@ -1,2 +1,2 @@
-# pixymeta-makenote
-Development of Exif makenote read/write function
+# pixymeta-makernote
+Development of Exif makernote read/write function
