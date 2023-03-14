@@ -1,2 +1,2 @@
 # pixymeta-makenote
-This repository is for development of Exif makenote read/write function
+Development of Exif makenote read/write function
